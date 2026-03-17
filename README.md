@@ -38,46 +38,6 @@ I build **automated workflows**, **scalable cloud solutions**, and optimize **CI
 
 ---
 
-# 👋 Hi, I'm Noman Ikram
-
-**DevOps Engineer** | Automation | CI/CD | Cloud Infrastructure 🌐  
-
-🌍 Based in Islamabad, Pakistan  
-
----
-
-## 🚀 About Me
-I build **automated workflows**, **scalable cloud solutions**, and optimize **CI/CD pipelines**.  
-
-<details>
-<summary>🔭 Currently working on</summary>
-
-- Automating cloud infrastructure with **Terraform** & **AWS**
-- Building reusable CI/CD frameworks for team-wide deployment
-- Kubernetes cluster optimization & monitoring
-
-</details>
-
----
-
-## 🧰 Skills & Tools
-
-### 🛠 DevOps / Cloud
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-
-### 🔧 CI/CD & Automation
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-
-### 🧠 Programming & Scripting
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
----
-
 <!--## 🔥 Featured Projects
 
 <details>
